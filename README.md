@@ -20,17 +20,17 @@
 
 **Menú**
 
-1_ Buscar libro por título.
+*1_ Buscar libro por título.*
 
-2_ Listar libros registrados.
+*2_ Listar libros registrados.*
 
-3_ Listar autores registrados.
+*3_ Listar autores registrados.*
 
-4_ Listar autores vivos en un determinado año.
+*4_ Listar autores vivos en un determinado año.*
 
-5_ Listar libros por idioma.
+*5_ Listar libros por idioma.*
 
-6_ Salir.
+*6_ Salir.*
 
 ## Elaborado por :rocket:
 
