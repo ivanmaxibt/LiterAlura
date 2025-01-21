@@ -45,5 +45,5 @@
 1. Link del repositorio: https://github.com/ivanmaxibt/LiterAlura
 
 <p align="center">
-  <img src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png">
+  <img src="https://content.techgig.com/photo/77766881/4-tips-to-effectively-understand-java-programming-language.jpg?142209">
    </p>
