@@ -16,7 +16,7 @@
 
 ## :pencil: Descripción
 
-**Este proyecto permite conectarse a una API y obtener información de los diferentes libros.**
+**Este proyecto permite conectarse a una API y obtener información de los diferentes libros. El menú principal se puede encontrar en literalura/src/main/java/com/example/menu/MainMenu.java. Desde allí se accede a toda la información descripta en el menú.**
 
 **Menú**
 
