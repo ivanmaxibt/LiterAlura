@@ -19,11 +19,17 @@
 **Este proyecto permite conectarse a una API y obtener información de los diferentes libros.**
 
 **Menú**
+
 1_ Buscar libro por título.
+
 2_ Listar libros registrados.
+
 3_ Listar autores registrados.
+
 4_ Listar autores vivos en un determinado año.
+
 5_ Listar libros por idioma.
+
 6_ Salir.
 
 ## Elaborado por :rocket:
